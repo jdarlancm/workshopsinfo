@@ -5,4 +5,8 @@ public class Teste {
   public void setTeste(int teste) {
     this.teste = teste;
   }
+  
+  public int getteste() {
+    return this.teste;
+  }
 }
